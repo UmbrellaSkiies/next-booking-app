@@ -8,8 +8,6 @@
 
 <img src="https://github.com/koolkishan/nextjs-travel-planner/blob/main/screenshots/ARKLYTE%20(3).png" alt="project-screenshot" >
 
-  
-  
 <h2>🧐 Features</h2>
 
 Here are some of the project's best features:
